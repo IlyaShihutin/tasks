@@ -1,6 +1,5 @@
 # Codewars Stage2:
    6. (5 kyu) http://www.codewars.com/kata/partition-on
-   7. (8 kyu) http://www.codewars.com/kata/word-count
    10. (6 kyu) http://www.codewars.com/kata/prefill-an-array
    11. (7 kyu) http://www.codewars.com/kata/cross-product-of-vectors
    12. (7 kyu) http://www.codewars.com/kata/sequence-generator-1
